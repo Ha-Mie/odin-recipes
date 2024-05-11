@@ -1,1 +1,1 @@
-# Suiq Game Inspired Animation
+# This is a Suiq Game Inspired Animation
